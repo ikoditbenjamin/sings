@@ -56,7 +56,7 @@ export default function HeroSectionThree() {
             <a href="#" className="-m-1.5 p-1.5 flex items-center space-x-2">
               <span className="sr-only">TroyTech Solution</span>
               <div className="px-2 py-1 bg-gradient-to-r from-emerald-900 to-cyan-900 rounded-lg border border-emerald-700/50">
-                <img alt="" src="./logo/logo.png" className="h-15 w-auto" />
+                <img alt="" src="./logo/logo.png" className="h-10 w-auto" />
               </div>
               <span className="font-bold text-xl text-emerald-400 tracking-tight font-mono">
                 TroyTech<span className="text-cyan-400">.</span>
