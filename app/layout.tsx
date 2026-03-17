@@ -22,8 +22,8 @@ export const metadata: Metadata = {
   description:
     "Professional software solutions by TroyTech. Web, mobile, and custom apps for your business.",
   icons: {
-    icon: "/favicon.ico", // favicon in public folder
-  },
+  icon: "/favicon.ico",
+},
   openGraph: {
     title: "TroyTech Solution",
     description:

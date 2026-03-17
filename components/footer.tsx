@@ -2,7 +2,7 @@
 
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
-import { Instagram, Linkedin, Twitter, Youtube } from "lucide-react";
+import { Facebook, Instagram, Linkedin, Twitter, Youtube } from "lucide-react";
 import Link from "next/link";
 
 export default function Footer() {
@@ -26,7 +26,7 @@ export default function Footer() {
             <div className="flex gap-4 pt-2">
 
               <Link
-                href="https://twitter.com"
+                href="https://x.com/Ikodit2002"
                 target="_blank"
                 className="p-2 rounded-full bg-white/10 hover:bg-white hover:text-indigo-600 transition duration-300"
               >
@@ -34,7 +34,7 @@ export default function Footer() {
               </Link>
 
               <Link
-                href="https://instagram.com"
+                href="https://www.instagram.com/ikoditbenjami/"
                 target="_blank"
                 className="p-2 rounded-full bg-white/10 hover:bg-white hover:text-indigo-600 transition duration-300"
               >
@@ -42,7 +42,7 @@ export default function Footer() {
               </Link>
 
               <Link
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/ikodit-benjamin-197365350/"
                 target="_blank"
                 className="p-2 rounded-full bg-white/10 hover:bg-white hover:text-indigo-600 transition duration-300"
               >
@@ -50,11 +50,19 @@ export default function Footer() {
               </Link>
 
               <Link
-                href="https://youtube.com"
+                href="https://www.youtube.com/channel/UCBHBnSol61cCFGzWn8lXshQ"
                 target="_blank"
                 className="p-2 rounded-full bg-white/10 hover:bg-white hover:text-indigo-600 transition duration-300"
               >
                 <Youtube size={18}/>
+              </Link>
+              
+              <Link
+                href="https://www.facebook.com/profile.php?id=100090950210061"
+                target="_blank"
+                className="p-2 rounded-full bg-white/10 hover:bg-white hover:text-indigo-600 transition duration-300"
+              >
+                <Facebook size={18}/>
               </Link>
 
             </div>
