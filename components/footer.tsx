@@ -77,7 +77,7 @@ export default function Footer() {
             </p>
 
             <p className="text-sm text-white/80 dark:text-gray-400">
-              +256 782 391 512
+              +256 782 391 512 | +256 768 711 017
             </p>
 
             <p className="text-sm text-white/80 dark:text-gray-400">
