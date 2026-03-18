@@ -17,7 +17,7 @@ export default function Innovation() {
               <div className="inline-flex items-center px-3 py-1 text-sm font-mono font-medium text-emerald-300 bg-emerald-950/60 border border-emerald-800/60 rounded-full mb-8 self-start">
                 <BoltIcon className="w-4 h-4 mr-1 text-cyan-400" />
                 {/* BUG FIX: fixed typo "Innovatioin" → "Innovation" */}
-                Introducing Computer Innovation 2.0
+                Empowering Innovation Through Technology & Smart Solutions 2.0
               </div>
 
               {/*
@@ -26,22 +26,18 @@ export default function Innovation() {
                 it very small. Corrected to use text-lg for the subtitle span.
               */}
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-cyan-700 tracking-tight leading-tight">
-                Learn IT With{" "}
+               IT Services & Loan {" "}
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-600 to-cyan-600">
-                  TroyTech
+                  Solutions in Uganda
                 </span>
               </h1>
 
               <p className="mt-4 text-lg text-emerald-500/100 font-mono max-w-lg leading-relaxed">
-                Experience technology learning like never before. Practical,
-                hands-on IT knowledge to build real-world digital skills and
-                succeed in the tech industry.
+                TroyTech provides professional IT services in Kampala & Entire Uganda including software development,graphics design, computer training, and reliable loan services in Uganda.
               </p>
 
               <p className="mt-4 text-base text-gray-500 max-w-lg">
-                Our platform helps you turn complex concepts into clear,
-                actionable skills with AI-powered guidance and real-time
-                project dashboards.
+                Our platform helps you turn ideas into real solutions through expert IT services, software development, and hands-on computer training. We also provide reliable loan and financial support, empowering individuals and businesses in Kampala and across Uganda to grow with confidence.
               </p>
 
               <div className="mt-10 space-y-5">
@@ -51,10 +47,10 @@ export default function Innovation() {
                   </div>
                   <div className="ml-4">
                     <h3 className="text-base font-semibold text-cyan-400">
-                      IT security and compliance
+                     Secure & Reliable Systems
                     </h3>
                     <p className="mt-1 text-sm text-gray-500">
-                      Keep your data safe with enterprise-grade security features
+                      We safeguard your data with strong IT security, system maintenance, and trusted technical support.
                     </p>
                   </div>
                 </div>
@@ -65,10 +61,10 @@ export default function Innovation() {
                   </div>
                   <div className="ml-4">
                     <h3 className="text-base font-semibold text-cyan-400">
-                      Lightning-fast performance
+                      Fast & Scalable Solutions
                     </h3>
                     <p className="mt-1 text-sm text-gray-500">
-                      Analyze billions of data points in seconds, not hours
+                      From apps to infrastructure, we deliver efficient IT solutions that grow with your needs.
                     </p>
                   </div>
                 </div>
@@ -79,10 +75,10 @@ export default function Innovation() {
                   </div>
                   <div className="ml-4">
                     <h3 className="text-base font-semibold text-cyan-400">
-                      AI-powered insights
+                     Growth-Driven Support
                     </h3>
                     <p className="mt-1 text-sm text-gray-500">
-                      Get predictive recommendations that help you stay ahead
+                      We combine IT expertise, training, and financial services to help your business succeed.
                     </p>
                   </div>
                 </div>
