@@ -1,5 +1,7 @@
+
 "use client";
 
+import { Metadata } from "next/dist/lib/metadata/types/metadata-interface";
 import Image from "next/image";
 import Link from "next/link";
 
@@ -25,6 +27,7 @@ const team = [
     image: "/about/irene.jpg",
   },
 ];
+
 
 export default function AboutPage() {
   return (

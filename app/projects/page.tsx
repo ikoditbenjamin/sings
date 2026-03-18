@@ -1,5 +1,6 @@
 "use client";
 
+import ServicesSection from "@/components/service";
 import Image from "next/image";
 import Link from "next/link";
 
@@ -203,7 +204,7 @@ export default function ProjectsPage() {
 
       </section>
 
-
+<ServicesSection />
       {/* CTA */}
       <section className="bg-blue-600 py-16">
 
@@ -225,7 +226,8 @@ export default function ProjectsPage() {
           </Link>
 
         </div>
-
+ 
+          
       </section>
 
     </main>

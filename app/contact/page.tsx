@@ -72,8 +72,8 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <h3 className="font-semibold text-foreground mb-1">Email</h3>
-                      <a href="mailto:hello@company.com" className="text-muted-foreground hover:text-accent transition-colors">
-                        techtroy28@gmail.com <br/>ikoditbenjamin9@gmail.com <span className='text-blue-400 text-xl'>(personal)</span>
+                      <a href="mailto:techtroy28@gmail.com" className="text-muted-foreground hover:text-accent transition-colors">
+                        techtroy28@gmail.com 
                       </a>
                     </div>
                   </div>

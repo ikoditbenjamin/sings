@@ -2,7 +2,6 @@
 import FeatureSectionThree from '@/components/featured-sec'
 import HeroSectionThree from '@/components/herosection'
 import LoansPage from '@/components/loans'
-// import ServicesPage from '@/components/service'
 import React from 'react'
 
 
